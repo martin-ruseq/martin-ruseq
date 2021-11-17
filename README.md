@@ -7,7 +7,7 @@ I'm Marcin Rusiecki, a Cybercrime and IT Security Student at the Institute of Te
 [![Twitter Badge](https://img.shields.io/badge/-@martin_ruseq-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/martin_ruseq)](https://twitter.com/martin_ruseq/) [![Mail Badge](https://img.shields.io/badge/-@ruseq1803-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/ruseq1803/)
 
 - :books: I'm currently studying at @ITCarlow.
-- :computer: Most used lie of code `public static void main(String[] args)`.
+- :computer: Most used line of code `public static void main(String[] args)`.
 - :headphones: DJing ethusist.
 - :video_game: I play video games in free time.
 
