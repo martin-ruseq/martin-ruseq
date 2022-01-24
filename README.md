@@ -2,7 +2,7 @@
 
 I'm Marcin Rusiecki, a Cybercrime and IT Security Student at the Institute of Technology Carlow. In my free time, I like to listen to music and play video games.
 
- #### :mag_right: Find me on: [![Twitter Badge](https://img.shields.io/badge/-@martin_ruseq-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/martin_ruseq)](https://twitter.com/martin_ruseq/) [![Mail Badge](https://img.shields.io/badge/-@marcin_rusiecki-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-rusiecki)
+ #### :mag_right: Find me on: [![Twitter Badge](https://img.shields.io/badge/-@Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/martin_ruseq)](https://twitter.com/martin_ruseq/) [![Mail Badge](https://img.shields.io/badge/-@LinkedIn-1ca0f1?style=flat&labelColor=1ca0f1&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-rusiecki)
 
 - :books: I'm currently studying at @ITCarlow.
 - :computer: Most used line of code `public static void main(String[] args)`.
