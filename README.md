@@ -4,10 +4,9 @@ I'm Marcin Rusiecki, a Cybercrime and IT Security Student at the Institute of Te
 
  #### :mag_right: Find me on: [![Twitter Badge](https://img.shields.io/badge/-@Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/martin_ruseq)](https://twitter.com/martin_ruseq/) [![Mail Badge](https://img.shields.io/badge/-@LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-rusiecki)
 
-- :books: I'm currently studying at @ITCarlow.
+- :books: I'm currently studying at Sout East Technological University.
 - :computer: Most used line of code `public static void main(String[] args)`.
 - :headphones: DJing ethusist.
-- :video_game: I play video games in free time.
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=martin-ruseq.martin-ruseq)
