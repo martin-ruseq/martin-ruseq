@@ -2,7 +2,7 @@
 
 I am glad you have visited my profil. I am Marcin, third-year student of Cybercrime and IT Security at the Sout East Technological University (SETU). In my free time, I like to listen to music and doing tasks on TryHackMe or HackTheBox.
 
- #### :mag_right: Find me on: [![Twitter Badge](https://img.shields.io/badge/-@Twitter-1da1f2?style=flat&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/martin_ruseq)](https://twitter.com/martin_ruseq/) [![Mail Badge](https://img.shields.io/badge/-@LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcinrusiecki)
+ #### :mag_right: Find me on: [![Mail Badge](https://img.shields.io/badge/-@LinkedIn-0077b5?style=flat&labelColor=0077b5&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcinrusiecki)
 
 - :books: I'm currently studying at Sout East Technological University.
 - :computer: Most used line of code `public static void main(String[] args)`.
