@@ -18,11 +18,11 @@ I am glad you have visited my profil. I'm Marcin, a third-year student of Cyberc
 # 👷‍♂️ Current Project: _CyberHub_
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/martin-ruseq/CyberProject-Y3?style=flat)
-![GitHub issues](https://img.shields.io/github/issues-raw/martin-ruseq/CyberProject-Y3?style=flat)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/martin-ruseq/CyberProject-Y3?style=flat)
+![GitHub stars](https://img.shields.io/github/stars/martin-ruseq/CyberProject-Y3?style=flat)
+![GitHub watchers](https://img.shields.io/github/watchers/martin-ruseq/CyberProject-Y3?style=flat)
 [![CodeFactor](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3/badge)](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3)
 
 [![Repo](https://img.shields.io/badge/dynamic/json?color=green&label=Repo&query=name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmartin-ruseq%2FCyberProject-Y3)](https://github.com/martin-ruseq/CyberProject-Y3)
