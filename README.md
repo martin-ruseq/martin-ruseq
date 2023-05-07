@@ -21,6 +21,7 @@ I am glad you have visited my profil. I'm Marcin, a third-year student of Cyberc
 ![GitHub contributors](https://img.shields.io/github/contributors/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub top language](https://img.shields.io/github/languages/top/martin-ruseq/CyberProject-Y3?style=flat)
+[![License: MPL-2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 ![GitHub stars](https://img.shields.io/github/stars/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub watchers](https://img.shields.io/github/watchers/martin-ruseq/CyberProject-Y3?style=flat)
 [![CodeFactor](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3/badge)](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3)
