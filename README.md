@@ -10,7 +10,7 @@ I am glad you have visited my profil. I'm Marcin, a third-year student of Cyberc
 
  ☁️ Vist me on [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-1abc9c?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/ruseq)](https://tryhackme.com/p/ruseq)
  
- 📦 See what I'm up to on [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-282828?style=flat&logo=HackTheBox&logoColor=red)](https://www.hackthebox.eu/home/users/profile/358358)
+ 📦 See what I'm up to on [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-282828?style=flat&logo=HackTheBox&logoColor=red)](https://app.hackthebox.com/profile/679476)
 
 ## 📊 My Statistics
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-ruseq&layout=compact&bg_color=22272e)
