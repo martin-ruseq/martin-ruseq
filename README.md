@@ -9,5 +9,5 @@ I am glad you have visited my profil. I am Marcin, third-year student of Cybercr
 - :headphones: DJing ethusist.
 
 #### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=martin-ruseq.martin-ruseq)
+![](https://komarev.com/ghpvc/?username=martin-ruseq&style=flat&label=Viewer)
 
