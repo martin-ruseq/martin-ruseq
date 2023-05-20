@@ -27,7 +27,7 @@ I am glad you have visited my profil. I'm Marcin, a third-year student of Cyberc
 [![CodeFactor](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3/badge/main)](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3/overview/main)
 
 [![Repo](https://img.shields.io/badge/dynamic/json?color=green&label=Repo&query=name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmartin-ruseq%2FCyberProject-Y3)](https://github.com/martin-ruseq/CyberProject-Y3)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cyberproject-marcinrusiecki.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cyber-project.streamlit.app/)
 
 ## 🔎 Profile Visitors
 ![](https://komarev.com/ghpvc/?username=martin-ruseq&style=flat&label=Viewer)
