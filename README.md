@@ -3,14 +3,14 @@
 I am glad you have visited my profil. I'm Marcin, a third-year student of Cybercrime and IT Security at the South East Technological University (SETU). In my free time, I like to listen to music and challenge myself with cybersecurity tasks on TryHackMe or HackTheBox.
 
 # Social Media 👥
-
- :link: Check out my [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcinrusiecki/)
+ :link: Reach me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-rusiecki/)](https://www.linkedin.com/in/marcin-rusiecki/)
 
  📷 Follow me on [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME/)](https://www.instagram.com/cyberuseq/)
 
  ☁️ Vist me on [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-1abc9c?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/ruseq)](https://tryhackme.com/p/ruseq)
  
- 📦 See what I'm up to on [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-282828?style=flat&logo=HackTheBox&logoColor=red)](https://app.hackthebox.com/profile/679476)
+ 📦 Check my [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-9cf?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/350278)](https://app.hackthebox.eu/profile/350278)
+
 
 # 📊 My Statistics
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-ruseq&layout=compact&bg_color=22272e)
