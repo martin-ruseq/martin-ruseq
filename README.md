@@ -24,6 +24,7 @@ I am glad you have visited my profil. I'm Marcin, a third-year student of Cyberc
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 [![CodeFactor](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3/badge/main)](https://www.codefactor.io/repository/github/martin-ruseq/cyberproject-y3/overview/main)
 [![CodeQL](https://github.com/martin-ruseq/CyberProject-Y3/actions/workflows/codeql.yml/badge.svg)](https://github.com/martin-ruseq/CyberProject-Y3/actions/workflows/codeql.yml)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/martin-ruseq/CyberProject-y3)
 
 [![Repo](https://img.shields.io/badge/dynamic/json?color=green&label=Repo&query=name&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmartin-ruseq%2FCyberProject-Y3)](https://github.com/martin-ruseq/CyberProject-Y3)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cyber-project.streamlit.app/)
