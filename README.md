@@ -3,7 +3,7 @@
 I am glad you have visited my profil. I'm Marcin, a third-year student of Cybercrime and IT Security at the South East Technological University (SETU). In my free time, I like to listen to music 🎵, ride my motorcycle 🏍️, and challenge myself with cybersecurity tasks on TryHackMe or HackTheBox 💻🛡️
 
 # Social Media 👥
- :link: Reach me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-rusiecki/)](https://www.linkedin.com/in/marcin-rusiecki/)
+ :link: Reach me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-rusiecki/)](https://www.linkedin.com/in/marcinrusiecki)
 
  📷 Follow me on [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME/)](https://www.instagram.com/cyberuseq/)
 
