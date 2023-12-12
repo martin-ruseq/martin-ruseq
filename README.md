@@ -1,21 +1,21 @@
 # Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Hi">
 
-I am glad you have visited my profil. I'm Marcin, a third-year student of Cybercrime and IT Security at the South East Technological University (SETU). In my free time, I like to listen to music 🎵, ride my motorcycle 🏍️, and challenge myself with cybersecurity tasks on TryHackMe or HackTheBox 💻🛡️
+I am glad you have visited my profil. I'm Marcin, a recent graduate with a First-Class degree in Cybercrime and IT Security from the South East Technological University (SETU).
+
+In my leisure time, I enjoy immersing myself in the world of cybersecurity challenges on platforms like TryHackMe and HackTheBox 💻🛡️. When not delving into the cyber realm, I find joy in listening to music 🎵 and cruising on my motorcycle 🏍️.
 
 # Social Media 👥
- :link: Reach me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-rusiecki/)](https://www.linkedin.com/in/marcinrusiecki)
+ :link: Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-rusiecki/)](https://www.linkedin.com/in/marcinrusiecki)
 
- 📷 Follow me on [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME/)](https://www.instagram.com/cyberuseq/)
+ 📷 Follow my cybersecurity adventures on [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME/)](https://www.instagram.com/cyberuseq/)
 
- ☁️ Vist me on [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-1abc9c?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/ruseq)](https://tryhackme.com/p/ruseq)
+ ☁️ Explore my profiles on [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-1abc9c?style=flat&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/ruseq)](https://tryhackme.com/p/ruseq) and [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-9cf?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/350278)](https://app.hackthebox.eu/profile/350278)
  
- 📦 Check my [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-9cf?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/350278)](https://app.hackthebox.eu/profile/350278)
-
 
 # 📊 My Statistics
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martin-ruseq&layout=compact&bg_color=22272e)
  
-# 👷‍♂️ Current Project: _CyberHub_
+# 👷‍♂️ Latest Project: _CyberHub_
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/martin-ruseq/CyberProject-Y3?style=flat)
 ![GitHub contributors](https://img.shields.io/github/contributors/martin-ruseq/CyberProject-Y3?style=flat)
