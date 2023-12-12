@@ -2,7 +2,7 @@
 
 I am glad you have visited my profil. I'm Marcin, a recent graduate with a First-Class degree in Cybercrime and IT Security from the South East Technological University (SETU).
 
-In my leisure time, I enjoy immersing myself in the world of cybersecurity challenges on platforms like TryHackMe and HackTheBox 💻🛡️. When not delving into the cyber realm, I find joy in listening to music 🎵 and cruising on my motorcycle 🏍️.
+In my leisure time, I enjoy immersing myself in the world of cybersecurity challenges on platforms like TryHackMe and HackTheBox🛡️. When not delving into the cyber realm, I find joy in listening to music 🎵 and cruising on my motorcycle 🏍️.
 
 # Social Media 👥
  :link: Connect with me on [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marcin-rusiecki/)](https://www.linkedin.com/in/marcinrusiecki)
